@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lixiaofan1997/E-book/issues"
   },
-  "homepage": "https://github.com/lixiaofan1997/E-book#readme"
+  "homepage": "https://github.com/lixiaofan1997/E-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
